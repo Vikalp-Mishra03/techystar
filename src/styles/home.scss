@@ -169,6 +169,13 @@
                 filter: invert(1);
             }
 
+            svg {
+                font-size: 4rem;
+            }
+
+            p {
+                font: 900 1.2rem $text2;
+            }
 
         }
     }
